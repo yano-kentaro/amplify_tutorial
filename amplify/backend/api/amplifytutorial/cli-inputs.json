@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "amplifytutorial",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/yanokentarou/dev/vue/amplify_tutorial/amplify/backend/api/amplifytutorial/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
